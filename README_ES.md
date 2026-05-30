@@ -10,6 +10,7 @@
 ![AI Ready](https://img.shields.io/badge/AI-Ready-8A2BE2)
 ![Status](https://img.shields.io/badge/Status-In%20Development-FCBF49)
 ![Portfolio](https://img.shields.io/badge/Type-Portfolio%20Project-111111)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
 
 ## Descripción general
 
