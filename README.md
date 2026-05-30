@@ -89,7 +89,6 @@ Instead, it showcases the project through its **architecture, UI design, backend
     <td width="50%" valign="top">
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>Select</h3>
