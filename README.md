@@ -54,16 +54,13 @@ Instead, it showcases the project through its **architecture, UI design, backend
 ## App Screenshots
 
 ### Dashboard
-![Dashboard](media/screenshots/dashboard1.jpg) , ![Dashboard](media/screenshots/01-dashboard.png)
+![Dashboard](media/screenshots/dashboard1.jpg) , ![Dashboard](media/screenshots/dashboard2.jpg)
 
 ### Physical Metrics
-![Physical Metrics](media/screenshots/02-physical-metrics.png)
+![Physical Metrics](media/screenshots/physical-metrics1.jpg) , ![Physical Metrics](media/screenshots/physical-metrics2.jpg)
 
 ### Nutrition
-![Nutrition](media/screenshots/03-nutrition.png)
-
-### Exercise
-![Exercise](media/screenshots/04-exercise.png)
+![Nutrition](media/screenshots/nutrition1.jpg), ![Nutrition](media/screenshots/nutrition2.jpg)
 
 ### Hydration
 ![Hydration](media/screenshots/05-hydration.png)
