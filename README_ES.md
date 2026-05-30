@@ -33,6 +33,7 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
 - Incluye módulos de **métricas físicas, hidratación, nutrición y ejercicio**
 - Diseñado con un enfoque **UI/UX premium**
 - Preparado para futuras **recomendaciones impulsadas por IA e insights de bienestar**
+- - Versionado y gestionado con **Git**, siguiendo un flujo de trabajo organizado por commits
 
 ---
 
@@ -48,6 +49,7 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
 | Seguridad | Supabase Auth, Row Level Security |
 | Dominio del producto | Fitness, Bienestar, HealthTech |
 | Visión futura | Arquitectura preparada para IA |
+| Control de versiones | Git, GitHub |
 
 ---
 
