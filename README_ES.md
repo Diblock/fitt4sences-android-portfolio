@@ -55,12 +55,17 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top">
       <h3>Intro & Login</h3>
       <img src="media/screenshots/intro.jpg" width="170" alt="Fitt4Sences Intro screen" />
       <img src="media/screenshots/login.jpg" width="170" alt="Fitt4Sences Login screen" />
     </td>
-    <td width="50%" valign="top">
+
+    <td width="4%" align="center" valign="middle">
+      <img src="media/screenshots/divider-green.png" width="2" height="360" alt="" />
+    </td>
+
+    <td width="48%" valign="top">
       <h3>Dashboard</h3>
       <img src="media/screenshots/dashboard1.jpg" width="170" alt="Fitt4Sences Dashboard screen 1" />
       <img src="media/screenshots/dashboard2.jpg" width="170" alt="Fitt4Sences Dashboard screen 2" />
@@ -68,12 +73,17 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top">
       <h3>Physical Metrics</h3>
       <img src="media/screenshots/physical-metrics1.jpg" width="170" alt="Fitt4Sences Physical Metrics screen 1" />
       <img src="media/screenshots/physical-metrics2.jpg" width="170" alt="Fitt4Sences Physical Metrics screen 2" />
     </td>
-    <td width="50%" valign="top">
+
+    <td width="4%" align="center" valign="middle">
+      <img src="media/screenshots/divider-green.png" width="2" height="360" alt="" />
+    </td>
+
+    <td width="48%" valign="top">
       <h3>Nutrition</h3>
       <img src="media/screenshots/nutrition1.jpg" width="170" alt="Fitt4Sences Nutrition screen 1" />
       <img src="media/screenshots/nutrition2.jpg" width="170" alt="Fitt4Sences Nutrition screen 2" />
@@ -81,11 +91,16 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top">
       <h3>Hydration</h3>
       <img src="media/screenshots/hydratation_canva.jpg" width="170" alt="Fitt4Sences Hydration screen" />
     </td>
-    <td width="50%" valign="top">
+
+    <td width="4%" align="center" valign="middle">
+      <img src="media/screenshots/divider-green.png" width="2" height="360" alt="" />
+    </td>
+
+    <td width="48%" valign="top">
     </td>
   </tr>
 </table>
