@@ -10,6 +10,7 @@
 ![AI Ready](https://img.shields.io/badge/AI-Ready-8A2BE2)
 ![Status](https://img.shields.io/badge/Status-In%20Development-FCBF49)
 ![Portfolio](https://img.shields.io/badge/Type-Portfolio%20Project-111111)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
 
 ## Overview
 
@@ -33,6 +34,7 @@ Instead, it showcases the project through its **architecture, UI design, backend
 - Includes modules for **physical metrics, hydration, nutrition and exercise**
 - Designed with a **premium UI/UX approach**
 - Prepared for future **AI-driven recommendations and wellness insights**
+- Versioned and managed with Git, following an organized commit-based workflow
 
 ---
 
@@ -48,6 +50,7 @@ Instead, it showcases the project through its **architecture, UI design, backend
 | Security | Supabase Auth, Row Level Security |
 | Product Domain | Fitness, Wellness, HealthTech |
 | Future Vision | AI-ready architecture |
+| Version Control | Git, GitHub |
 
 ---
 
