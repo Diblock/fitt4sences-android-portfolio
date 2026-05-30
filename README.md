@@ -54,7 +54,7 @@ Instead, it showcases the project through its **architecture, UI design, backend
 ## App Screenshots
 
 ### Dashboard
-![Dashboard](media/screenshots/01-dashboard.png)
+![Dashboard](media/screenshots/dashboard1.jpg) , ![Dashboard](media/screenshots/01-dashboard.png)
 
 ### Physical Metrics
 ![Physical Metrics](media/screenshots/02-physical-metrics.png)
