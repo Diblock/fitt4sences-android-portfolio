@@ -86,6 +86,7 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
     <td width="50%" valign="top">
       <h3>Hydration</h3>
       <img src="media/screenshots/hydratation_canva.jpg" width="170" alt="Fitt4Sences Hydration screen" />
+      <img src="media/screenshots/hydratation2.jpg" width="170" alt="Fitt4Sences Hydration screen" />
     </td>
     <td width="50%" valign="top">
     </td>
