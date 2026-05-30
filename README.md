@@ -53,8 +53,7 @@ Instead, it showcases the project through its **architecture, UI design, backend
 
 ## App Screenshots 
 
-**Login** <p> <p> <img src="media/screenshots/login.jpg" width="220" alt="Fitt4Sences Hydration screen" /> </p>
-
+**Intro & Login  ** <p> <img src="media/screenshots/intro.jpg" width="220" alt="Fitt4Sences Dashboard screen 1" /> <img src="media/screenshots/login.jpg" width="220" alt="Fitt4Sences Dashboard screen 2" /> </p> 
 
 **Dashboard** <p> <img src="media/screenshots/dashboard1.jpg" width="220" alt="Fitt4Sences Dashboard screen 1" /> <img src="media/screenshots/dashboard2.jpg" width="220" alt="Fitt4Sences Dashboard screen 2" /> </p> 
 
