@@ -69,7 +69,7 @@ Instead, it showcases the project through its **architecture, UI design, backend
 
   <tr>
     <td width="50%" valign="top">
-      <h3>Physical Metrics</h3>
+      <h3>Metrics</h3>
       <img src="media/screenshots/physical-metrics1.jpg" width="170" alt="Fitt4Sences Physical Metrics screen 1" />
       <img src="media/screenshots/physical-metrics2.jpg" width="170" alt="Fitt4Sences Physical Metrics screen 2" />
     </td>
@@ -85,6 +85,16 @@ Instead, it showcases the project through its **architecture, UI design, backend
       <h3>Hydration</h3>
       <img src="media/screenshots/hydratation_canva.jpg" width="170" alt="Fitt4Sences Hydration screen" />
       <img src="media/screenshots/hydratation2.jpg" width="170" alt="Fitt4Sences Hydration screen" />
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Select</h3>
+      <img src="media/screenshots/pop1.jpg" width="170" alt="Fitt4Sences Hydration screen" />
+      <img src="media/screenshots/pop2.jpg" width="170" alt="Fitt4Sences Hydration screen" />
     </td>
     <td width="50%" valign="top">
     </td>
