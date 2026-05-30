@@ -63,7 +63,7 @@ Instead, it showcases the project through its **architecture, UI design, backend
 ![Nutrition](media/screenshots/nutrition1.jpg), ![Nutrition](media/screenshots/nutrition2.jpg)
 
 ### Hydration
-![Hydration](media/screenshots/05-hydration.png)
+![Hydration](media/screenshots/hydratation_canva.jpg)
 
 ---
 
