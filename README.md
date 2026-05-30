@@ -51,20 +51,14 @@ Instead, it showcases the project through its **architecture, UI design, backend
 
 ---
 
-## App Screenshots
+## App Screenshots 
+### Dashboard <p align="center"> <img src="media/screenshots/dashboard1.jpg" width="240" alt="Fitt4Sences Dashboard screen 1" /> <img src="media/screenshots/dashboard2.jpg" width="240" alt="Fitt4Sences Dashboard screen 2" /> </p> 
 
-### Dashboard
-![Dashboard](media/screenshots/dashboard1.jpg) , ![Dashboard](media/screenshots/dashboard2.jpg)
+### Physical Metrics <p align="center"> <img src="media/screenshots/physical-metrics1.jpg" width="240" alt="Fitt4Sences Physical Metrics screen 1" /> <img src="media/screenshots/physical-metrics2.jpg" width="240" alt="Fitt4Sences Physical Metrics screen 2" /> </p> 
 
-### Physical Metrics
-![Physical Metrics](media/screenshots/physical-metrics1.jpg) , ![Physical Metrics](media/screenshots/physical-metrics2.jpg)
+### Nutrition <p align="center"> <img src="media/screenshots/nutrition1.jpg" width="240" alt="Fitt4Sences Nutrition screen 1" /> <img src="media/screenshots/nutrition2.jpg" width="240" alt="Fitt4Sences Nutrition screen 2" /> </p> 
 
-### Nutrition
-![Nutrition](media/screenshots/nutrition1.jpg), ![Nutrition](media/screenshots/nutrition2.jpg)
-
-### Hydration
-![Hydration](media/screenshots/hydratation_canva.jpg)
-
+### Hydration <p align="center"> <img src="media/screenshots/hydratation_canva.jpg" width="240" alt="Fitt4Sences Hydration screen" /> </p>
 ---
 
 ## Demo Videos
