@@ -53,15 +53,42 @@ Instead, it showcases the project through its **architecture, UI design, backend
 
 ## App Screenshots 
 
-**Intro & Login  ** <p> <img src="media/screenshots/intro.jpg" width="220" alt="Fitt4Sences Dashboard screen 1" /> <img src="media/screenshots/login.jpg" width="220" alt="Fitt4Sences Dashboard screen 2" /> </p> 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Intro & Login</h3>
+      <img src="media/screenshots/intro.jpg" width="170" alt="Fitt4Sences Intro screen" />
+      <img src="media/screenshots/login.jpg" width="170" alt="Fitt4Sences Login screen" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Dashboard</h3>
+      <img src="media/screenshots/dashboard1.jpg" width="170" alt="Fitt4Sences Dashboard screen 1" />
+      <img src="media/screenshots/dashboard2.jpg" width="170" alt="Fitt4Sences Dashboard screen 2" />
+    </td>
+  </tr>
 
-**Dashboard** <p> <img src="media/screenshots/dashboard1.jpg" width="220" alt="Fitt4Sences Dashboard screen 1" /> <img src="media/screenshots/dashboard2.jpg" width="220" alt="Fitt4Sences Dashboard screen 2" /> </p> 
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Physical Metrics</h3>
+      <img src="media/screenshots/physical-metrics1.jpg" width="170" alt="Fitt4Sences Physical Metrics screen 1" />
+      <img src="media/screenshots/physical-metrics2.jpg" width="170" alt="Fitt4Sences Physical Metrics screen 2" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Nutrition</h3>
+      <img src="media/screenshots/nutrition1.jpg" width="170" alt="Fitt4Sences Nutrition screen 1" />
+      <img src="media/screenshots/nutrition2.jpg" width="170" alt="Fitt4Sences Nutrition screen 2" />
+    </td>
+  </tr>
 
-**Physical Metrics** <p> <img src="media/screenshots/physical-metrics1.jpg" width="220" alt="Fitt4Sences Physical Metrics screen 1" /> <img src="media/screenshots/physical-metrics2.jpg" width="220" alt="Fitt4Sences Physical Metrics screen 2" /> </p> 
-
-**Nutrition** <p> <img src="media/screenshots/nutrition1.jpg" width="220" alt="Fitt4Sences Nutrition screen 1" /> <img src="media/screenshots/nutrition2.jpg" width="220" alt="Fitt4Sences Nutrition screen 2" /> </p> 
-
-**Hydration** <p> <img src="media/screenshots/hydratation_canva.jpg" width="220" alt="Fitt4Sences Hydration screen" /> </p>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Hydration</h3>
+      <img src="media/screenshots/hydratation_canva.jpg" width="170" alt="Fitt4Sences Hydration screen" />
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 ---
 
 ## Demo Videos
