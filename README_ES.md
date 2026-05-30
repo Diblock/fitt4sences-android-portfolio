@@ -71,12 +71,12 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
 
   <tr>
     <td width="50%" valign="top">
-      <h3>Physical Metrics</h3>
+      <h3>Metricas</h3>
       <img src="media/screenshots/physical-metrics1.jpg" width="170" alt="Fitt4Sences Physical Metrics screen 1" />
       <img src="media/screenshots/physical-metrics2.jpg" width="170" alt="Fitt4Sences Physical Metrics screen 2" />
     </td>
     <td width="50%" valign="top">
-      <h3>Nutrition</h3>
+      <h3>Nutricion</h3>
       <img src="media/screenshots/nutrition1.jpg" width="170" alt="Fitt4Sences Nutrition screen 1" />
       <img src="media/screenshots/nutrition2.jpg" width="170" alt="Fitt4Sences Nutrition screen 2" />
     </td>
@@ -84,11 +84,14 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
 
   <tr>
     <td width="50%" valign="top">
-      <h3>Hydration</h3>
-      <img src="media/screenshots/hydratation_canva.jpg" width="170" alt="Fitt4Sences Hydration screen" />
-      <img src="media/screenshots/hydratation2.jpg" width="170" alt="Fitt4Sences Hydration screen" />
+      <h3>Select</h3>
+      <img src="media/screenshots/pop1.jpg" width="170" alt="Fitt4Sences Add meal dialog" />
+      <img src="media/screenshots/pop2.jpg" width="170" alt="Fitt4Sences Exercise goals dialog" />
     </td>
     <td width="50%" valign="top">
+      <h3>Hydration</h3>
+      <img src="media/screenshots/hydratation_canva.jpg" width="170" alt="Fitt4Sences Hydration screen 1" />
+      <img src="media/screenshots/hydratation2.jpg" width="170" alt="Fitt4Sences Hydration screen 2" />
     </td>
   </tr>
 </table>
