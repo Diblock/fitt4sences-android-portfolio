@@ -112,6 +112,13 @@ Instead, it showcases the project through its **architecture, UI design, backend
 
 ---
 
+## TFG Documentation This repository includes a summarized version of the Final Degree Project documentation in both Spanish and English. 
+
+- [Resumen del TFG en Español](docs/TFG_Fitt4Sences_resumen_ES.pdf)
+- [Final Degree Project Summary in English](docs/TFG_Fitt4Sences_summary_EN.pdf)
+
+---
+
 ## Core Modules
 
 ### Physical Metrics
