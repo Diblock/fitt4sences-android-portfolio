@@ -116,6 +116,15 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
 
 ---
 
+## Documentación del TFG
+
+Este repositorio incluye una versión resumida de la documentación del Trabajo de Fin de Grado en español e inglés.
+
+- [Resumen del TFG en Español](docs/TFG_Fitt4Sences_resumen_ES.pdf)
+- [Resumen del TFG en Inglés](docs/TFG_Fitt4Sences_summary_EN.pdf)
+
+---
+
 ## Módulos principales
 
 ### Métricas físicas
