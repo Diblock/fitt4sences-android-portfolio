@@ -106,11 +106,11 @@ En su lugar, muestra el proyecto a través de su **arquitectura, diseño UI, enf
 
 ### Demo en español
 
-[Ver el vídeo de presentación en español](https://YOUR-LINK-HERE)
+[Watch the Spanish presentation video](https://youtu.be/Nu8Vl9Nx4-8)
 
-### Demo en inglés
+### Demo en Ingles
 
-[Ver el vídeo de presentación en inglés](https://YOUR-LINK-HERE)
+[Watch the English presentation video](https://youtu.be/ZO3j8SlBqL0)
 
 > Si es necesario, los vídeos también pueden insertarse como miniaturas enlazadas a YouTube o Google Drive.
 
