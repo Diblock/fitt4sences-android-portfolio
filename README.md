@@ -106,7 +106,7 @@ Instead, it showcases the project through its **architecture, UI design, backend
 [Watch the Spanish presentation video](https://YOUR-LINK-HERE)
 
 ### English Demo
-[Watch the English presentation video](https://YOUR-LINK-HERE)
+[Watch the English presentation video]([https://YOUR-LINK-HERE](https://youtu.be/ZO3j8SlBqL0))
 
 > If needed, videos can also be embedded as thumbnails linked to YouTube or Google Drive.
 
